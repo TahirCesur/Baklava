@@ -26,6 +26,10 @@
 		right: -40px;
 		left: -174px;
 	}
+
+	.resimSlider {
+		height: 500px;
+	}
 }
 
 /* // Small devices (landscape phones, less than 768px) */

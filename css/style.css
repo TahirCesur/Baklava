@@ -70,6 +70,10 @@ a, a:hover {
     border-right: 1px solid #e0e0e0;
 }
 
+.resimSlider {
+    height: 500px;
+}
+
 .iletisim ,  .iletisim span a{
     font-size: 19px;
     color: #64280c;
@@ -1100,6 +1104,7 @@ ul.tags li a:hover {
 	color: #8d9297;
     font-size: 18px;
 }
+
 
 /* contact page end */
 
