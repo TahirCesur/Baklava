@@ -28,8 +28,10 @@
 	}
 
 	.resimSlider {
-		height: 450px;
+		height: 300px;
 	}
+
+
 }
 
 /* // Small devices (landscape phones, less than 768px) */
@@ -43,6 +45,8 @@
 	.oneproduct .display-4 {
 		font-size:34px;
 	}
+	
+	
 }
 
 /* // Medium devices (tablets, less than 992px) */
@@ -76,6 +80,10 @@
 	}
 	.banner-box:last-child {
 		padding-left:5px;
+	}
+
+	.mega-title {
+		font-size: 3px;
 	}
  }
 
