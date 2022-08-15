@@ -571,6 +571,7 @@ footer .social a {
 
 footer .social a:hover {
 	background-color: #64280c;
+    color: #fffdd0;
 }
 footer h5 {
     text-transform: uppercase;
